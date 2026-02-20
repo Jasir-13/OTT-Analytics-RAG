@@ -1,0 +1,183 @@
+PROMPTS
+1.What is the average monthly revenue generated per user across all OTT platforms from 2016 to 2026?
+
+RESPONSES
+
+Filtered to **1 records** for year(s): 2016, 2026.
+›
+**Metric analyzed:** `ID` across 1 records
+›
+Total: **2,739.00** | Average: **2,739.00**
+›
+Range: 2,739.00 → 2,739.00 | Median IQR: 2,739.00 – 2,739.00
+›
+Std deviation: **nan**
+›
+Distribution is relatively stable (CV=nan%).
+›
+Top 3 **Title** by avg ID:
+›
+• **One in a Billion** → 2,739.00
+›
+Semantic confidence: **19.1%** (top match) | **18.1%** (avg of 8 results)
+
+2.Which OTT platform had the highest number of subscribers in 2022 and what was the count?
+
+RESPONSES
+
+Filtered to **0 records** for year(s): 2022.
+›
+No records found for the specified year(s).
+
+3.List the top 3 regions with the most OTT users and their respective user counts.
+
+RESPONSES
+
+Top entities ranked by **ID** (from 8 records):
+›
+1. **Animation,Adventure,Family,Fantasy** → 33,082.00 (46.1% share)
+›
+2. **Adventure,Crime,Drama** → 14,578.00 (20.3% share)
+›
+3. **Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi** → 14,300.00 (19.9% share)
+›
+4. **Drama,Romance,Thriller** → 7,551.00 (10.5% share)
+›
+5. **Drama,Family,Sci-Fi** → 2,132.00 (3.0% share)
+›
+Market concentration: Leader controls **46.1%** of total ID.
+›
+Semantic confidence: **25.4%** (top match) | **23.2%** (avg of 8 results)
+
+4. How has the churn rate changed year over year from 2018 to 2024?
+
+RESPONSES
+
+Filtered to **3 records** for year(s): 2018, 2024.
+›
+**Churn metric:** `ID`
+›
+Total churn sum: **10,007.00** | Average: **3,335.67**
+›
+Highest average churn by **Title**:
+›
+1. **Keep the Change** → 5,057.00
+›
+2. **Change in the Air** → 2,516.00
+›
+3. **Chupan Chupai** → 2,434.00
+›
+Semantic confidence: **34.0%** (top match) | **27.5%** (avg of 8 results)
+
+5. Which subscription plan (basic, standard, premium) has grown the most between 2016 and 2026?
+
+RESPONSES
+
+Filtered to **2 records** for year(s): 2016, 2026.
+›
+Top entities ranked by **ID** (from 2 records):
+›
+1. **Documentary** → 7,803.00 (79.2% share)
+›
+2. **Crime,Drama,Thriller** → 2,050.00 (20.8% share)
+›
+Market concentration: Leader controls **79.2%** of total ID.
+›
+Semantic confidence: **24.3%** (top match) | **21.7%** (avg of 8 results)
+
+6. What is the trend in average watch time per user from 2019 to 2023?
+
+RESPONSES
+
+Filtered to **1 records** for year(s): 2019, 2023.
+›
+**Runtime** by year (full dataset):
+›
+• 2019: **102.00**
+›
+Semantic confidence: **35.0%** (top match) | **31.6%** (avg of 8 results)
+
+7. Compare mobile vs desktop usage percentage across all years in the dataset.
+
+RESPONSES
+
+**ID** by year (full dataset):
+›
+• 2001: **13,887.00**
+›
+• 2012: **17,592.00**
+›
+• 2015: **2,353.00**
+›
+• 2016: **2,739.00**
+›
+• 2017: **802.00**
+›
+• 2018: **16,778.00**
+›
+Overall: 📈 grew by **20.8%** (2001 → 2018)
+›
+Best YoY growth: **2018** (+1992.0%) | Worst: **2015** (-86.6%)
+›
+Semantic confidence: **24.0%** (top match) | **22.4%** (avg of 8 results)
+
+8. Which genre has the highest user engagement and how does it compare to the lowest performing genre?
+
+RESPONSES
+
+Top entities ranked by **ID** (from 8 records):
+›
+1. **Biography,Drama,Family,Musical,Romance** → 16,257.00 (20.4% share)
+›
+2. **Horror,Comedy** → 15,648.00 (19.7% share)
+›
+3. **Documentary,Music** → 12,504.00 (15.7% share)
+›
+4. **Drama,Romance** → 10,400.00 (13.1% share)
+›
+5. **Drama,Fantasy,Romance** → 9,788.00 (12.3% share)
+›
+Market concentration: Leader controls **20.4%** of total ID.
+›
+Semantic confidence: **35.4%** (top match) | **32.1%** (avg of 8 results)
+
+9. Which year had the lowest revenue and which platform was responsible for the highest churn in that same year?
+
+RESPONSES
+
+**Churn metric:** `ID`
+›
+Total churn sum: **76,256.00** | Average: **9,532.00**
+›
+Highest average churn by **Title**:
+›
+1. **Cheaper by the Dozen** → 16,413.00
+›
+2. **Pepsi vs Cola: The Marketing Battle of the Century** → 15,936.00
+›
+3. **The Pay-Off** → 15,492.00
+›
+4. **The Best Government Money Can Buy?** → 10,231.00
+›
+5. **Gary Gulman: In This Economy?** → 7,963.00
+›
+Churn trend 1930–2017: ↑ increasing by **2.9%**
+›
+Semantic confidence: **22.7%** (top match) | **19.5%** (avg of 8 results)
+
+10. For users who subscribed after 2020 on a premium plan, what is the average watch time and churn rate?
+
+RESPONSES
+
+Filtered to **1 records** for year(s): 2020.
+›
+**Churn metric:** `Runtime`
+›
+Total churn sum: **90.00** | Average: **90.00**
+›
+Highest average churn by **Title**:
+›
+1. **The Willoughbys** → 90.00
+›
+Semantic confidence: **24.8%** (top match) | **22.8%** (avg of 8 results)
+
